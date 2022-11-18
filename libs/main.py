@@ -2,7 +2,7 @@ from classes import *
 import time
 from tqdm import tqdm
 
-print('KANG CARD GAME v0.01')
+print('KANG CARD GAME v0.01e-10a')
 time.sleep(2)
 print("Welcome to Kang card game. Please read 'README.md' first if you're not familiar with this card game before")
 time.sleep(2)
